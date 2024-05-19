@@ -35,7 +35,7 @@ General-Purpose language models have changed the world of natural language proce
 ### Efficient Benchmark Design
 * Survey of compute requirements
 * Common ways to reduce compute
-* Best pratctices
+* Best practices
 
 ### Metrics
 * Classic n-gram metrics
@@ -44,9 +44,9 @@ General-Purpose language models have changed the world of natural language proce
 * LLM as evaluators
 
 ### Manual Evaluation
-* Is human evluation being abandoned?
-* The alignment paradigm
-* LLM-Human feedback loops
+* Important properties of human annotators
+* Reproducibility issues
+* Is human evaluation being abandoned?
 
 ## Organizers
 Leshem Choshen, Ariel Gera, Yotam Perlitz, Michal Shmueli-Scheuer and Gabriel Stanovsky
