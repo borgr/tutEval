@@ -9,6 +9,7 @@
     - [Efficient Benchmark Design](#efficient-benchmark-design)
     - [Metrics](#metrics)
     - [Manual Evaluation](#manual-evaluation)
+    - [Materials](#materials)
   - [Organizers](#organizers)
 
 <!-- END doctoc generated TOC please keep comment here to allow auto update -->
@@ -49,7 +50,7 @@ General-Purpose language models have changed the world of natural language proce
 * Is human evaluation being abandoned?
 
 ### Materials
-You can find all of the tutorial slides by [following this link](LREC24 Evaluation Tutorial.pdf).
+You can find all of the tutorial slides here: https://github.com/borgr/tutEval/blob/main/LREC24%20Evaluation%20Tutorial.pdf
 
 ## Organizers
 Leshem Choshen, Ariel Gera, Yotam Perlitz, Michal Shmueli-Scheuer and Gabriel Stanovsky
