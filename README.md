@@ -9,7 +9,7 @@
     - [Efficient Benchmark Design](#efficient-benchmark-design)
     - [Metrics](#metrics)
     - [Manual Evaluation](#manual-evaluation)
-    - [Materials](#materials)
+  - [Materials](#materials)
   - [Organizers](#organizers)
 
 <!-- END doctoc generated TOC please keep comment here to allow auto update -->
