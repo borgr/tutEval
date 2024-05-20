@@ -48,5 +48,8 @@ General-Purpose language models have changed the world of natural language proce
 * Reproducibility issues
 * Is human evaluation being abandoned?
 
+### Materials
+You can find all of the tutorial slides by [following this link](LREC24 Evaluation Tutorial.pdf).
+
 ## Organizers
 Leshem Choshen, Ariel Gera, Yotam Perlitz, Michal Shmueli-Scheuer and Gabriel Stanovsky
