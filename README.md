@@ -10,6 +10,7 @@
     - [Metrics](#metrics)
     - [Manual Evaluation](#manual-evaluation)
   - [Materials](#materials)
+  - [Citing](#citing)
   - [Organizers](#organizers)
 
 <!-- END doctoc generated TOC please keep comment here to allow auto update -->
